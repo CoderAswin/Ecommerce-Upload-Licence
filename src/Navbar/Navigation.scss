@@ -1,0 +1,40 @@
+.delivery{
+    display: flex;
+    align-items: center;
+    line-height: 1.2;
+    margin-left: 25px;
+    color: #165C7D;
+}
+
+
+.search{
+    position: relative;
+    input{
+        border-radius: 5px;
+        border: 3px solid #165C7D;
+    }
+    .searchIcon{
+        position: absolute;
+        left: 94%;
+        bottom: 4px;
+    }
+}
+
+
+.person{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    .personLogo{
+        font-size: 30px;
+        color: #165C7D;
+
+    }
+
+    span{
+        color: #165C7D;
+        font-weight: bold;
+        font-size: 20px;
+    }
+}

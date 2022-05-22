@@ -1,0 +1,57 @@
+.footerContents{
+
+    background-color: #F5F5F5;
+    padding: 20px;
+
+    ul{
+        list-style: none;
+    }
+
+    .company{
+       span{
+           margin-left: 30px;
+           font-weight: bold;
+       }
+    }
+
+    .info{
+        span{
+            margin-left: 30px;
+            font-weight: bold;
+        }
+    }
+
+    .payment{
+
+        span{
+            font-weight: bold;
+        }
+        
+    }
+
+    .signUpForEmail{
+        margin-top: 20px;
+    }
+
+    hr{
+        margin-top: 20px;
+    }
+
+    .copyright{
+        display: flex;
+        justify-content: center;
+    }
+
+    button{
+        background-color: #165C7D;
+        border-radius: 3px;
+        padding: 5px 20px;
+        color: white;
+    }
+
+    .socialMedia{
+        margin-bottom: 20px;
+    }
+
+
+}

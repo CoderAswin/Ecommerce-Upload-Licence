@@ -1,0 +1,44 @@
+.formBody{
+
+
+    .formSubmit{
+        .submit{
+            background-color: #165C7D;
+            border-radius: 4px;
+            color: white;
+            padding: 5px 15px;
+        }
+
+        .cancel{
+            border-radius: 4px;
+            margin-left: 20px;
+            padding: 5px 15px;
+        }
+    }
+
+    .zipCity{
+        display: flex;
+        align-items: center;
+    
+        .city{
+            margin-left: 30px;
+        }
+    }
+    
+    .licenceBody{
+        display: flex;
+        align-items: center;
+    
+        .uploadDocument{
+            margin-left: 20px;
+            display: flex;
+            flex-direction:  column-reverse;
+            align-items: center;
+            margin-top: 20px;
+        }
+    }
+
+    
+
+}
+

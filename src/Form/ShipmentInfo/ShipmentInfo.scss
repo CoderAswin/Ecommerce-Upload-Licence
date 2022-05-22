@@ -1,0 +1,29 @@
+
+.shipping{
+
+    input{
+        border: 2px solid #165C7D;
+    }
+
+    select{
+        border: 2px solid #165C7D;
+    }
+    .shippingAddress{
+        display: flex;
+        align-items: center;
+    
+    
+        span{
+            font-size: 30px;
+        }
+    
+        .checkbox{
+            display: flex;
+            align-items: center;
+            margin-left: 15px;
+            font-weight: lighter;
+        }
+    
+    }
+}
+
